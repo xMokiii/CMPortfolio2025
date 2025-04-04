@@ -1,0 +1,5 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom, #0077be, #001f3f); /* Bleu clair vers bleu foncé */
+}
